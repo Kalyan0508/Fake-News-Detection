@@ -1,36 +1,5 @@
-Project Title:Fake News Detection
+Project Title:Fake News Detection,
 Automatically classify news articles as real or fake using NLP and machine learning.
-
-Table of Contents
-Overview
-
-Features
-
-Installation
-
-Dataset
-
-Project Structure
-
-Modeling
-
-Data Preprocessing
-
-Feature Engineering
-
-Algorithms & Architecture
-
-Usage
-
-Results & Evaluation
-
-Future Work
-
-Contributing
-
-License
-
-Contact
 
 Overview
 A concise description of the problem, approach, and why it matters.
