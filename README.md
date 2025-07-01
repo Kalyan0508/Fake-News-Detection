@@ -1,5 +1,4 @@
-Project Title
-Fake News Detection
+Project Title:Fake News Detection
 Automatically classify news articles as real or fake using NLP and machine learning.
 
 Table of Contents
@@ -161,4 +160,4 @@ Distributed under the MIT License.
 
 Contact
 Name –Kalyan Ram
-for any queries reach me out at-kalyanr0508@gmail.com
+for any queries reach me out at - kalyanr0508@gmail.com
